@@ -1,7 +1,4 @@
-# Lesson 7: Hardhat Fund Me
-
-*[⌨️ (10:00:48) Lesson 7: Hardhat Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36048s)*
-
+# (Full Stack / Backend)
 
 ## Linting
 
@@ -73,7 +70,7 @@
 *[⌨️ (12:22:00) Adding Scripts to your package.json](https://youtu.be/gyMwXuJrbJQ?t=44520)*
 
 
-# Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)
+# (Full Stack / Front End)
 ## Introduction
 ## How Websites work with Web3 Wallets
 - [How to Connect your Smart Contracts to Metamask](https://www.youtube.com/watch?v=pdsYCkUWrgQ)
@@ -99,6 +96,6 @@ MetaMask - RPC Error:
 - [provider.once](https://docs.ethers.io/v5/api/providers/provider/#Provider-once)
 - [Anonymous function](https://www.geeksforgeeks.org/javascript-anonymous-functions/)
 - [Javascript Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-## Input Forms
-## Reading from the Blockchain
-## Withdraw Function
+
+### This project is been created by watching Blockchain, Solidity, and Full Stack Web3 Development with JavaScript FreeCodeCamp Course!
+#### Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ

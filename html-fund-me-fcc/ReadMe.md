@@ -1,4 +1,3 @@
 ## Front-End Part
 
-This branch just include front end part and connect with backend
-This two branch need to work seperate windows
+This is a minimalistic example what you can find in the [metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
